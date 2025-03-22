@@ -1,0 +1,28 @@
+.Price_h1 {
+  font-family: DM Serif Display;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 25px;
+  letter-spacing: 0%;
+  color: rgba(8, 31, 50, 1);
+}
+.Price_span {
+  font-family: DM Serif Display;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 25px;
+  letter-spacing: 0%;
+  text-decoration: line-through;
+  color: rgba(248, 89, 59, 1);
+}
+
+.Price{
+    display: flex;
+    gap: 8px;
+}
+.Price_button{
+    display: flex;
+    gap: 29px;
+    align-items: center;
+    justify-content: space-between;
+}

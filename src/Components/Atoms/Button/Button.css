@@ -1,0 +1,21 @@
+.Button {
+  font-family: Open Sans;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 25px;
+  letter-spacing: 18%;
+  text-align: center;
+  width: 114px;
+  height: 44px;
+  border-radius: 4px;
+  background-color: rgba(46, 204, 113, 1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  color: white;
+}
+.Button:hover {
+  background-color: red;
+  transition: 270ms;
+}

@@ -1,0 +1,6 @@
+.Container {
+  width: 1160px;
+  height: 528px;
+  display: flex;
+  gap: 40px;
+}
